@@ -47,7 +47,7 @@ export default function ContactPage() {
             <div className="w-32 h-32 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors">
               <Mail className="w-16 h-16 text-blue-600 fill-blue-600/10" strokeWidth={1.5} />
             </div>
-            <p className="text-xl font-black text-black tracking-tight">info@springstarusa.com</p>
+            <p className="text-xl font-black text-black tracking-tight">admin@springstarusa.com</p>
           </a>
 
           <a 

@@ -42,7 +42,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2 text-slate-600 text-xs md:text-sm font-bold">
                 <Mail className="w-3.5 h-3.5 text-blue-600 shrink-0" strokeWidth={2.5} />
-                <span className="truncate">info@springstarusa.com</span>
+                <span className="truncate">admin@springstarusa.com</span>
               </li>
             </ul>
           </div>
